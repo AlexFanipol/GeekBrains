@@ -24,3 +24,4 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 ✦ 1, 2, 3 … – нумерованные списки
 ## Added Number
 ![Hello](car.jpg)
+## Added Diff
